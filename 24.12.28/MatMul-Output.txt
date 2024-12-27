@@ -1,0 +1,12 @@
+OpenMP 40 Cores
+Execution time: 505942.088441ms
+
+OpenMP + MPI 40 Cores * 8
+Execution time: 50231.529906ms
+
+OpenMP + OpenACC 40 Cores + 1 GPU
+Execution time: 169866.738803ms
+
+OpenMP + MPI + OpenACC (40 Cores + 1 GPU) * 8
+Execution time: 17278.011950ms
+
